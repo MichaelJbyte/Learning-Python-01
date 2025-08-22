@@ -2,7 +2,7 @@
 Day 1 of learning the programming language Python. 8/19/25
 
 ## Topics Covered 
-[something](1_app.py), 2_Strings.py
+>[Hello World!](1_app.py), [Strings](2_Strings.py)
 
 * Difference between code editors & IDE's.
 * Turning a code editor into an IDE by installing various extensions.
