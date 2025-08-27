@@ -17,4 +17,12 @@ Day 2 of learning the programming language Python. 8/21/25
 * Fundamentals for integers & floats.
 * Various operators and statements.
 * The many traits of for and while loops.
+-------
+Day 3 of learning the programming language Python. 8/26/25
 
+## Topics Covered 
+>[Functions](7_functions.py),
+
+* Crafting your own functions.
+* Argument and Parameter rules.
+* Xargs.
