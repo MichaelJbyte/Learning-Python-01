@@ -8,7 +8,7 @@ Day 1 of learning the programming language Python. 8/19/25
 * Turning a code editor into an IDE by installing various extensions.
 * PEP 8.
 * Fundamentals for strings.
--------
+---
 Day 2 of learning the programming language Python. 8/21/25
 
 ## Topics Covered 
@@ -17,7 +17,7 @@ Day 2 of learning the programming language Python. 8/21/25
 * Fundamentals for integers & floats.
 * Various operators and statements.
 * The many traits of for and while loops.
--------
+---
 Day 3 of learning the programming language Python. 8/26/25
 
 ## Topics Covered 
@@ -26,3 +26,13 @@ Day 3 of learning the programming language Python. 8/26/25
 * Crafting your own functions.
 * Argument and Parameter rules.
 * Xargs.
+
+---
+Day 4 of learning the programming language Python. 8/28/25
+
+## Topics Covered 
+Watched tutorials for python tips.
+
+* Define a main() function for better processing and code clarity.
+* Split up large functions into smaller, seperate, functions for multi-use functions in your code.
+* Annotate your types.
