@@ -36,3 +36,11 @@ Watched tutorials for python tips.
 * Define a main() function for better processing and code clarity.
 * Split up large functions into smaller, seperate, functions for multi-use functions in your code.
 * Annotate your types.
+---
+Day 5 of learning the programming language Python. 9/02/25
+
+## Topics Covered 
+>[Keywords Pt.1](8_keywords.py),
+
+* Learned and practiced with 15 python keywords. 
+
