@@ -42,5 +42,13 @@ Day 5 of learning the programming language Python. 9/02/25
 ## Topics Covered 
 >[Keywords Pt.1](8_keywords.py),
 
-* Learned and practiced with 15 python keywords. 
+* Learned and practiced with 15 python keywords.
+---
+Day 6 of learning the programming language Python. 9/04/25
+
+## Topics Covered 
+>[Keywords Pt.2](8_keywords.py),
+
+* Learned and practiced with 24 more python keywords.
+* Continued python practice using Genepy.
 
